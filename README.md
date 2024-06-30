@@ -1,5 +1,6 @@
 sudo apt install httrack webhttrack  (For installing Httrack in ubantu)
 
+pip freeze > requirements.txt (for creating requirement.txt file)
 #cronjob
 crontab -e (For apply a cron job to python file)
 crontab -l (for verify a cron job is applied or not)
