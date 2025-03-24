@@ -1,3 +1,8 @@
+Hi 👋, I'm Karanpreet Singh
+
+
+
+
 sudo apt install httrack webhttrack  (For installing Httrack in ubantu)
 
 pip freeze > requirements.txt (for creating requirement.txt file)
